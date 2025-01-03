@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1591266689 source:/home/vivek/Desktop/WDA/client.cpp
+	<iostream>
+	<sys/types.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<string>
+	<string.h>
+	<bits/stdc++.h>
+
+1590863395 source:/home/vivek/Desktop/WDA/source.cpp
+	<iostream>
+	<sys/types.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<string>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<bits/stdc++.h>
+
+1591268938 source:/home/vivek/Desktop/WDA/test.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<bits/stdc++.h>
+
+1591268805 source:/home/vivek/Desktop/WDA/main.cpp
+	<bits/stdc++.h>
+	"test.h"
+	"client.h"
+
+1590862944 /home/vivek/Desktop/WDA/test.h
+
+1590864026 /home/vivek/Desktop/WDA/server.h
+
+1590863173 /home/vivek/Desktop/WDA/client.h
+
+1590825071 source:/home/vivek/Desktop/WDA/server.cpp
+	<iostream>
+	<sys/types.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<string>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<bits/stdc++.h>
+
